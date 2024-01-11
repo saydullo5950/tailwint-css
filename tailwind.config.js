@@ -6,21 +6,25 @@ module.exports = {
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
       },
-      padding: {
-        30: "120px"
-      },
       gap: {
         19: "76px"
       },
       width: {
-        103: "413px"
+        103: "413px",
+        160: "640px",
       },
       space: {
         19: '76px'
       },
       height: {
-        58.75: "235px"
-      }
+        58.75: "235px",
+        160: "640px",
+      },
+      padding: {
+        13: "52px",
+        19: "76px",
+        30: "120px"
+      },
     },
   },
   plugins: [],
